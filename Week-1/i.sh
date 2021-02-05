@@ -1,0 +1,1 @@
+mkdir cs && mkdir cs/cprogs && mkdir cs/projects

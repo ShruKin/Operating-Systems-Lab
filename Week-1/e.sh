@@ -1,0 +1,1 @@
+clear && tput cup 12 25

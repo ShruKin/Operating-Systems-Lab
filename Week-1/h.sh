@@ -1,0 +1,1 @@
+echo "scale=3; 5/3" | bc -l
