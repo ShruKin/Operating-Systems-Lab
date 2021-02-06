@@ -1,2 +1,2 @@
 hostname
-cat /etc/os-release
+lsb_release -d
