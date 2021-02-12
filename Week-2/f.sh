@@ -1,0 +1,1 @@
+mkdir -m400 KeepOut

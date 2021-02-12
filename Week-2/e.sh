@@ -1,0 +1,1 @@
+chmod 060 newtext
