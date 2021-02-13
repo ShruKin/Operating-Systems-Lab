@@ -1,1 +1,1 @@
-ls -l newtext
+chmod 666 newtext

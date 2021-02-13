@@ -1,1 +1,1 @@
-chmod 660 newtext
+chmod 000 newtext
