@@ -16,7 +16,7 @@ done
 
 if [ $f -eq 1 ]  
 then
-echo "$n is Not Prime"
+    echo "$n is Not Prime"
 else
-echo "$n is Prime"
+    echo "$n is Prime"
 fi
