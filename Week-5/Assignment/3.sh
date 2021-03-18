@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 if [[ $1 -gt $2 && $1 -gt $3 ]]
 then
