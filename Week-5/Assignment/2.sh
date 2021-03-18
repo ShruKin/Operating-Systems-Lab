@@ -1,14 +1,15 @@
-#!/bin/bash
+#!/bin/sh
 
 echo Enter a year:
 read y
 
-if [[ $y -eq "" ]]
+if [ -z $y ]
 then
     y=$(date +%Y)
 fi
 
-if  [[ $(($y%4)) -eq 0  &&  $(($y%100)) -ne 0 ]]  || [ $(($y%400)) -eq 0 ]
+
+if [ $(($y%4)) -eq 0 ]  &&  [ $(($y%100)) -ne 0 ]  || [ $(($y%400)) -eq 0 ]
 then 
     echo "$y is leap year"
 else
