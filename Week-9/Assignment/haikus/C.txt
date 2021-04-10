@@ -1,0 +1,11 @@
+The beauty of C
+Is its freedom and power,
+But beauty can hurt.
+
+I learned all I know
+In Software Engineering.
+Give Prof. Wood a raise.
+
+Oh what have I done?
+I started the homework late.
+The (seg) fault is mine.

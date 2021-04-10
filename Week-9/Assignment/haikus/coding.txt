@@ -1,0 +1,11 @@
+SOLID principles
+SRP and OCP
+Still don’t know Liskov
+
+Flakey code base
+Instigate peer code reviews
+No one has the time
+
+Application crash
+Detailed error report but
+Where is the stack trace?

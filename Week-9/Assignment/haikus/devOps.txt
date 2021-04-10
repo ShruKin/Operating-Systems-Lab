@@ -1,0 +1,15 @@
+Build server is slow
+Disk whirs, lights flash but no builds
+Request SSD
+
+Test build being deployed
+We wait for the build green line
+Sadness. It’s amber
+
+TFS build red
+Queue the integration build
+TFS still red
+
+Build has been deployed
+Is available for test
+Please handle with care
