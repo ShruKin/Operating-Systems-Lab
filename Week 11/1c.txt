@@ -1,1 +1,1 @@
-sed 'n;n;n;n;G;' a.txt
+sed ':x; /\\$/ { N; s/\\\n//; tx }' b.txt
