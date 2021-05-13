@@ -1,0 +1,1 @@
+sed 'N;N;N;N;G' b.txt

@@ -1,1 +1,0 @@
-awk '{ total = total + NF }; END {print total}' emp.lst

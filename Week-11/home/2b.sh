@@ -1,0 +1,1 @@
+awk -F '|' '{for(i=1;i<=NF;i++) s+=$i; print s; s=0}' c.txt 
